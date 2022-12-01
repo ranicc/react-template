@@ -1,5 +1,6 @@
 import * as React from 'react';
 
+// div.App with header.App-header and text inside
 function App() {
 	return (
 		<div className="App">
